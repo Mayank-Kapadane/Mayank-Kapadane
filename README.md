@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on rectjs <br>i know backend technologies <br>php, node.js, python(flask)<br>I have good knowledge about python and data analyst <br>👯 I’m looking to collaborate on github<br>🤝 I’m looking for help with my projects.<br>🌱 I’m currently learning B.Tech IT.<br>💬 Ask me about my work<br>⚡ Fun fact, I have just starting before 2 year ago and before that i don't know how to use a computer because i don't have a computer 😀 
+🔭 I’m currently working on Rect js <br>i know backend technologies <br>php, node.js, python(flask)<br>I have good knowledge about python and data analyst <br>👯 I’m looking to collaborate on github<br>🤝 I’m looking for help with my projects.<br>🌱 I’m currently learning B.Tech IT.<br>💬 Ask me about my work<br>⚡ Fun fact, I have just starting before 2 year ago and before that i don't know how to use a computer because i don't have a computer 😀 
 
 
 ## 🌐 Socials:
